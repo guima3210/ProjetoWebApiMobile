@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projeto_BD</string>
+    <string name="id">ID</string>
+    <string name="valora">Valor A</string>
+    <string name="valorb">Valor B</string>
+    <string name="operacao">Operação</string>
+    <string name="resultado">Resultado</string>
+    <string name="datah">DATA E HORA</string>
+</resources>
